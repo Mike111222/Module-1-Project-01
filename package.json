@@ -1,0 +1,19 @@
+{
+  "name": "hello-microverse-project",
+  "version": "1.0.0",
+  "description": "📗 Table of Contents\r 📖 About the Project\r 🛠 Built With\r Tech Stack\r Key Features\r 🚀 Live Demo\r 💻 Getting Started\r Setup\r Prerequisites\r Install\r Usage\r Run tests\r Deployment\r 👥 Authors\r 🔭 Future Features\r 🤝 Contributing\r ⭐️ Show your support\r 🙏 Acknowledgements\r ❓ FAQ (OPTIONAL)\r 📝 License\r 📖 [your_project_name]\r Describe your project in 1 or 2 sentences.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "hint": "^7.1.8",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
