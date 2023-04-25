@@ -1,4 +1,4 @@
-📖 About the Project
+📖 About the Hello Microverse Project
 
 This is project number 1 of Module-1. The project name is Hello Microverse Project
 🛠 Built With
